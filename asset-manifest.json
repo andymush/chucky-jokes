@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chucky-jokes/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/chucky-jokes/static/js/main.8374384f.chunk.js",
+    "main.js.map": "/chucky-jokes/static/js/main.8374384f.chunk.js.map",
+    "runtime-main.js": "/chucky-jokes/static/js/runtime-main.215b5159.js",
+    "runtime-main.js.map": "/chucky-jokes/static/js/runtime-main.215b5159.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/chucky-jokes/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e81e9a5b.chunk.js": "/chucky-jokes/static/js/2.e81e9a5b.chunk.js",
+    "static/js/2.e81e9a5b.chunk.js.map": "/chucky-jokes/static/js/2.e81e9a5b.chunk.js.map",
+    "static/js/3.2f60c36c.chunk.js": "/chucky-jokes/static/js/3.2f60c36c.chunk.js",
+    "static/js/3.2f60c36c.chunk.js.map": "/chucky-jokes/static/js/3.2f60c36c.chunk.js.map",
+    "index.html": "/chucky-jokes/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/chucky-jokes/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/chucky-jokes/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.e81e9a5b.chunk.js.LICENSE.txt": "/chucky-jokes/static/js/2.e81e9a5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.215b5159.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e81e9a5b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.8374384f.chunk.js"
+  ]
+}
